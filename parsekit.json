@@ -1,0 +1,15 @@
+{
+	"name": "ln-e/test1",
+	"description": "test description",
+	"authors": [
+		{
+			"email": "some@mail.com",
+			"name": "test"
+		}
+	],
+	"keywords": ["test"],
+	"require": {
+		"parser": ">=3.4.3",
+		"ln-e/debug": "*"
+	}
+}
